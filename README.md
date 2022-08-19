@@ -3,9 +3,8 @@
   <h1>
     Welcome to my page!
   </h1>
-  <p>I am a Passionate Fullstack Developer from Mombasa, Kenya!</p>
 </div>
-
+<img src="./images/fullS.JPG" alt="banner photo" width ="100%">
 
 - 🔭 I’m currently working on: **Javascript and React**
 
