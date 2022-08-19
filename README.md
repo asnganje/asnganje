@@ -1,16 +1,18 @@
 ### Hi there 👋
 <div  align="center">
   <h1>
-    Welcome to my page
+    Welcome to my page!
   </h1>
+  <p>I am a Passionate Fullstack Developer from Mombasa, Kenya!</p>
 </div>
-<img src="./images/fullS.JPG" width="100%">
 
 
-- 🔭 I’m currently working on ...**Javascript and React**
+- 🔭 I’m currently working on: **Javascript and React**
 
- - 👨‍💻 All of my projects are available at [https://github.com/asnganje?tab=repositories](https://github.com/asnganje?tab=repositories)
-- 📫 How to reach me: **abd.nganje@gmail.com**
+- 👨‍💻 All of my projects are available at [https://github.com/asnganje?tab=repositories](https://github.com/asnganje?tab=repositories)
+  
+- 📫 You can reach via email at: **abd.nganje@gmail.com**
+
 - ⚡ Fun fact **I like playing Chess**
   
 <h3 align="left">Connect with me:</h3>
