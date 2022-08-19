@@ -1,12 +1,10 @@
 ### Hi there 👋
 <div  align="center">
   <h1>
-    Hi there!  <img src="https://giphy.com/gifs/HBOMax-hbomax-tomandjerry-tomandjerryonhbomax-noyBeNjH4nbtXV5ZLA" width="40px"/>
-
     Welcome to my page
   </h1>
 </div>
-<img src="./images/fullS.jpg" width="100%">
+<img src="./images/fullS.JPG" width="100%">
 
 
 - 🔭 I’m currently working on ...**Javascript and React**
@@ -19,7 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/asnganje" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asnganje" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/abdulrahman-nganje-a6436935/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Abdulrahman Nganje" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@asnganje" height="30" width="40" /></a>
+<a href="https://www.instagram.com/abdulsn87/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@asnganje" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
