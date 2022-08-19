@@ -13,7 +13,9 @@
 - 📫 You can reach via email at: **abd.nganje@gmail.com**
 
 - ⚡ Fun fact **I like playing Chess**
-  
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=asnganje&theme=highcontrast&show_icons=true&count_private=true)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/asnganje" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asnganje" height="30" width="40" /></a>
