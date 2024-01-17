@@ -6,7 +6,7 @@
 </div>
 <img src="./images/fullS.JPG" alt="banner photo" width ="100%">
 
-- 🔭 I’m currently working on: **Databases and Ruby**
+- 🔭 I’m currently working on: **Fullstack applications - React Redux NodeJs and MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://github.com/asnganje?tab=repositories](https://github.com/asnganje?tab=repositories)
   
